@@ -22,8 +22,8 @@ from AI system incidents.
 
 | Document | Version | Link |
 |----------|---------|------|
-| AI Incident Response | v1.0 | 🔗 [View](https://docs.google.com/document/d/1UF10j6PuesOn4M-3wtFS1q_3rRDniI4G/edit?usp=drive_link&ouid=106343310566021151369&rtpof=true&sd=true) |
-| AI Rollback Procedure | v1.0 | 🔗 [View](https://docs.google.com/document/d/1FbiDrVr5hSVKtVRcsfSkDgsPpOKrNMLJ/edit?usp=drive_link&ouid=106343310566021151369&rtpof=true&sd=true)|
+| AI Incident Response | v1.0 | 🔗 [View](https://docs.google.com/document/d/1iLxjTBKaoV9F22u6qkv54kfCdKGagbav/edit?usp=drive_link&ouid=106343310566021151369&rtpof=true&sd=true) |
+| AI Rollback Procedure | v1.0 | 🔗 [View](https://docs.google.com/document/d/1tblbhJW92y_rQBsASbJN85PGfAx7u51k/edit?usp=drive_link&ouid=106343310566021151369&rtpof=true&sd=true)|
 
 ---
 
